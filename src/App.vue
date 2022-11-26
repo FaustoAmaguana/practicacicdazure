@@ -1,8 +1,9 @@
 <template>
   <center>
 
-    <h1>Tarea #2 Carlos Luis Parraga Vera</h1>
-    <h2>Automatizacion de Procesos</h2>
+    <h1>Tarea #5 Carlos Luis Parraga Vera</h1>
+    <h1>Tarea #5 Fausto Amaguaña</h1>
+    <h2>Automatizacion de Procesos CI CD</h2>
     <br>
   </center>
 
@@ -25,7 +26,7 @@
         <li><h2 class="text-center mb-3">Carlos Luis Parraga Vera</h2></li>
         <li><h2 class="text-center mb-3">Fausto Amaguaña</h2></li>
       </ul>
-      <h3>Automatizacion de Procesos</h3>
+      <h3>Automatizacion de Procesos CICD</h3>
       <ul class="list-group">
         <li class="list-group-item" v-show="fulldatetime"><strong>Fecha:</strong> {{ fulldatetime }}</li>
       </ul>
